@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApp", "MainApp\MainApp.csproj", "{4968D651-DD01-4850-8B0F-14564C4D71E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRRODriver", "PRRODriver\PRRODriver.csproj", "{46BEEF7B-327A-4C65-810F-E8BC6A75F189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4968D651-DD01-4850-8B0F-14564C4D71E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4968D651-DD01-4850-8B0F-14564C4D71E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4968D651-DD01-4850-8B0F-14564C4D71E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4968D651-DD01-4850-8B0F-14564C4D71E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46BEEF7B-327A-4C65-810F-E8BC6A75F189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BEEF7B-327A-4C65-810F-E8BC6A75F189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BEEF7B-327A-4C65-810F-E8BC6A75F189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BEEF7B-327A-4C65-810F-E8BC6A75F189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB19CCEE-3B6F-4C94-8FD1-3137C841C5C2}
+	EndGlobalSection
+EndGlobal
